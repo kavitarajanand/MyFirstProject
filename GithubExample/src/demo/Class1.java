@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Class1 {
 	static WebDriver driver;
 	//Launch browser
+	//modify the change
 public  void LaunchBrowser()
 {
 	driver=new ChromeDriver();
